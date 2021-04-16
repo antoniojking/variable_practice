@@ -6,3 +6,6 @@ years_of_experience = 0.5
 
 if_turing = true
 if_mba = false
+
+programs = ['BE', 'FE']
+classmates = ['Carina', 'Craig', 'Michael', 'Logan']
