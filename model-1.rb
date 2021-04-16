@@ -9,3 +9,6 @@ if_mba = false
 
 programs = ['BE', 'FE']
 classmates = ['Carina', 'Craig', 'Michael', 'Logan']
+
+locations: {54 + 1}
+practice=> {get.chomp}
